@@ -1,6 +1,6 @@
-### Hi there :bowtie:
+### Hi there :bowtie:Cancel changes
 - :woman_astronaut: My name is Angélica!
-- :desktop_computer: I'm a software engineering student at [42 Sao Paulo](https://www.42sp.org.br/)
+- :desktop_computer: I am a software engineering student at [42 Sao Paulo](https://www.42sp.org.br/)
 - :hammer_and_pick: I am also a geologist geostatistician ([USP](https://www5.usp.br/))
 - 👩🏻‍💻 I am working as a Junior Software Engineer at [Solaris Capital](https://www.solcap.com.br/) (and I am loving it!)
 - 💬 I speak Portuguese, English and I'm learning French aussi :baguette_bread: :croissant:
